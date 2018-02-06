@@ -1,2 +1,2 @@
 # Hello-world
-First git hub repositor
+1st git hub repositor
